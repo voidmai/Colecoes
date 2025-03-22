@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Objects;
 
-class Livro {
+public class Livro {
     private String isbn;
     private String autor;
     private String editora;
